@@ -6,7 +6,7 @@ deleção e busca de todos os produtos, por meio do id e pelo nomeDoProduto (mé
 Bem como, para categoria (método específico será buscar por setor) e usuário (não terá um método específico de busca).\
 Nesse projeto, na classe service de Produto, temos a regra de negócio de que se o prduto for maior do que 50.00, 
 será aplicado um desconto de 10%. Já na classe Service de Usuario teremos toda a autenticação do Spring Security.\
-Ao final da criação, criamos um Swagger e subimos a API para um servidor do Render.
+Ao final da aplicação, criamos um Swagger e subimos a API para um servidor do Render.
 
 ## Etapas: 
 - [x] Package model (contém as classes que representam as entidades do banco de dados)
